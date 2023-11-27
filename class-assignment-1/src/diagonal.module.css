@@ -1,0 +1,6 @@
+.diagonalshape {
+    margin: 0px;
+    padding: 0px;
+    background-image: -webkit-linear-gradient(-45deg, #010b13 50%, #080808 50%);
+    height: 100vh;
+}
